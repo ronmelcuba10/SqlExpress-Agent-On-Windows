@@ -1,4 +1,4 @@
-USE SchedulerProduction;
+USE DatabaseName;
 
 PRINT 'Printing a List'
 EXEC dbo.Getlist;
