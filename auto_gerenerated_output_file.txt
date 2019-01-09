@@ -1,0 +1,18 @@
+Changed database context to 'SchedulerProduction'.
+Companies list for test
+83418BD4-CD7A-46D2-A676-E577462978DC DCL Inc                                            http://dclinc.net                                                                                       1 FOX                                                user1@fox.com                                                                                        user1@fox.com                                                                                           0 NULL                                                                                                    0    1    1 #003366fc  #fff       10450 FL-84                                                                                          xxx                                                                                                  Davie                                                                                                B7A24617-4C7B-479D-9F09-7F3781100CAE NULL                                               33324                                              A5F5A712-519D-4F16-BA5E-AB52AA5E5946 9542362993                                         NULL                                
+BAE9D0B2-596B-4F15-B551-67083517428A Sematron                                           www.sematron.com                                                                                        0 Patrick Woolcocks                                  PWoolcocks@sematron.com                                                                              PWoolcocks@sematron.com                                                                                 1 PWoolcocks@sematron.com                                                                                 1    1    1 #003366fc  #fff       Sandpiper House, Aviary Court                                                                        Wade Road                                                                                            Basingstoke                                                                                          NULL                                 Hampshire                                          RG24 8GX                                           8E168E78-7947-4312-B982-DDC76A6DD8BF +44 (0)1256 812222                                 NULL                                
+
+(0 rows affected)
+Starting Events
+2019-01-09 15:38:00.080
+
+(0 rows affected)
+Stopping Events
+          1
+
+(0 rows affected)
+Clearing Events
+          1
+
+(1 rows affected)
