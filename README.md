@@ -24,7 +24,7 @@ These instructions will get you through a series of steps so you can have a simu
     EXIT
 ```
 
-This is a command connecting the local computer (`.\`) database (`SQLEXPRESS`) using the user **user** and password **password** and executing the sql file **sql_file.sql** and generating the output file **auto_gerenerated_output_file.txt**. This file will ve overwritten every time the task is executed.
+This is a command connecting the local computer (`.\`) database (`SQLEXPRESS`) using the user **user** and password **password** and executing the sql file **sql_file.sql** and generating the output file **auto_gerenerated_output_file.txt**. This file will be overwritten every time the task is executed.
 
 * and last but not least, the sql command should be like this one
 ```
